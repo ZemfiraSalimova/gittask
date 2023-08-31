@@ -1,2 +1,6 @@
 test file2 for task
+<<<<<<< HEAD
 conflict
+=======
+conflict2
+>>>>>>> vetka2
